@@ -1,7 +1,25 @@
-.categories p{
+.categories div{
 
-    border: 4cm;
-    width: 8em;
-    height: 8em;
-    background-color: blueviolet;
+    border: 5px solid ;
+    border-color: rgb(54, 66, 94);
+    width: 150px;
+    height: 150px;
+    color: blueviolet;
+    padding: 20px; 
+    margin: 80px; 
+    display: inline-block;
+    align-content: center;
+    box-sizing: border-box;
+    background-color: lightblue;    
+}
+
+
+.categories {
+    padding: 15px; 
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace ;
 }

@@ -9,7 +9,8 @@ const AboutPage = () => (
   <div>
     <div>
       <p>
-        This about page is for anyone to read!
+        This is a ecommerce site built in mind for help people sell their items 
+        at rummage sales and local sales events. 
       </p>
     </div>
   </div>

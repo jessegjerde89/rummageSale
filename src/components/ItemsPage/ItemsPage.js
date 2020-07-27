@@ -7,22 +7,32 @@ class ItemsPage extends Component {
   
     render() {
       return(
-        <div className= "categories">
-            <p>
-              This be Items page
-            </p>
 
-            <p>
-              This be Items page
-            </p>
+      <div >
 
-            <p>
-              This be Items page
-            </p>
+        <h1>! Our Current Stock !</h1>
+
+        <div>
+
+
 
         </div>
-      )
-    }
-}
+
+        <div className= "categories">
+            <div>
+              This be Items page
+            </div>
+              <span></span>
+            <div>
+              This be Items page
+            </div>
+              <span></span>
+            <div>
+              This be Items page
+            </div>
+              <span></span>
+        </div>     
+      </div>
+  )}}
 
 export default connect()(ItemsPage); 
